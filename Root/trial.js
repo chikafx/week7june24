@@ -14,12 +14,11 @@ lists[1].textContent = 'i will show mercy on whom i want to show mercy'
 lists[6].textContent = 'form zero knowledge of coding to 50% of coding knowledge'
 const june25 = document.getElementsByClassName('june25')
 lists[7].style.backgroundColor = 'pink'
+lists[5].style.backgroundColor= 'white'
 const ten = nine.nextElementSibling
 ten.textContent = 'life is not easy'
 ten.style.textTransform = 'capitalize'
 ten.style.backgroundColor = 'orange'
-
-
 lists[6].style.backgroundColor = 'indigo'
 nine.textContent = 'Jesus is Lord'
 nine.style.backgroundColor = 'green'
